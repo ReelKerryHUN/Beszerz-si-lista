@@ -1,1 +1,1 @@
-# Beszerz-si-lista
+# Beszerzési-lista
