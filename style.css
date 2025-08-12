@@ -1,7 +1,7 @@
 /* styles.css */
 body {
     font-family: Arial, sans-serif;
-    background: #f2f2f5;
+    background: #999999;
     margin: 0;
     min-height: 100vh;
     padding: 0;
@@ -14,8 +14,8 @@ h1 {
     text-align: center;
     margin-top: 32px;
     margin-bottom: 24px;
-    color: #262626;
-    font-size: 2rem;
+    color: #cc0000;
+    font-size: 5rem;
     letter-spacing: 1px;
 }
 
@@ -34,7 +34,7 @@ li {
 a {
     display: inline-block;
     background: #ffffff;
-    color: #0066cc;
+    color: #8fce00;
     text-decoration: none;
     font-size: 1.07em;
     padding: 13px 22px;
